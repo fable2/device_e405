@@ -1,0 +1,7 @@
+[
+ {
+   "repository": "lge-kernel-e405",
+   "target_path": "kernel/lge/e405",
+   "branch": "android-msm-2.6.38"
+ }
+]

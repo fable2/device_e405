@@ -1,0 +1,66 @@
+Camera sensor 0 info:
+I/QualcommCameraHardware( 1272): sensor_mount_angle: 0
+E/CAM_FD  ( 1272): sensor_load_chromatix: Sensor name: hi351 cnt=0
+I/QualcommCameraHardware( 1272): Parameter Rolloff is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter MCE is not supported for this sensor
+I/QualcommCameraHardware( 1272): Sharpness not supported for this sensor
+I/QualcommCameraHardware( 1272): Saturation not supported for this sensor
+I/QualcommCameraHardware( 1272): Contrast not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter AntiBanding is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter Redeye Reduction is not supported for this sensor
+E/QualcommCameraHardware( 1272): Wavelet Denoise is not supported for this sensor
+I/QualcommCameraHardware( 1272): Auto Exposure not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter HFR is not supported for this sensor
+E/ExtendedExtractor( 1272): Failed to open MM_PARSER_LIB, dlerror = Cannot load library: load_library[1120]: Library 'libmmparser.so' not found 
+E/ExtendedExtractor( 1272): Failed to open MM_PARSER_LITE_LIB, dlerror = Cannot load library: load_library[1120]: Library 'libmmparser_lite.so' not found 
+I/AwesomePlayer( 1272): setDataSource_l('/system/media/audio/ui/camera_click.ogg')
+I/AwesomePlayer( 1272): setDataSource_l('/system/media/audio/ui/VideoRecord.ogg')
+I/QualcommCameraHardware( 1272): Parameter Rolloff is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter MCE is not supported for this sensor
+I/QualcommCameraHardware( 1272): Sharpness not supported for this sensor
+I/QualcommCameraHardware( 1272): Saturation not supported for this sensor
+I/QualcommCameraHardware( 1272): Contrast not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter AntiBanding is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter Redeye Reduction is not supported for this sensor
+E/QualcommCameraHardware( 1272): Wavelet Denoise is not supported for this sensor
+I/QualcommCameraHardware( 1272): Auto Exposure not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter HFR is not supported for this sensor
+D/CameraSettings( 1291): Parameters: [antibanding-values=off,50hz,60hz,auto, antibanding=off, auto-exposure-values=frame-average,center-weighted,spot-metering, auto-exposure=frame-average, camera-mode=0, contrast-max=10, contrast=5, denoise-values=denoise-off,denoise-on, denoise=denoise-off, effect-values=none,mono,negative,solarize,sepia,posterize,whiteboard,blackboard,aqua, effect=none, exposure-compensation-step=1, exposure-compensation=0, face-detection-values=, face-detection=off, focal-length=2.7, focus-distances=1.000000,2.000000,Infinity, focus-mode-values=infinity, focus-mode=infinity, hfr-size-values=, histogram-values=, histogram=disable, horizontal-view-angle=54, iso-values=auto,ISO_HJR,100,200,400,ISO800,ISO1600, iso=auto, jpeg-quality=95, jpeg-thumbnail-height=240, jpeg-thumbnail-quality=90, jpeg-thumbnail-size-values=512x288,480x288,432x288,512x384,352x288,320x240,0x0, jpeg-thumbnail-width=320, lensshade-values=enable,disable, lensshade=enable, max-exposure-compensation=6, max-zoom=60, mce-values=enable,disable, mce=enable, min-exposure-compensation=-6, num-snaps-per-shutter=1, overlay-format=265, picture-format-values=jpeg,raw, picture-format=jpeg, picture-size-values=2048x1536,1920x1080,1600x1200,1280x960,1280x768,1280x720,1024x768,800x600,800x480,640x480,352x288,320x240,176x144, picture-size=2048x1536, preferred-preview-size-for-video=640x480, preview-format-values=yuv420sp,yuv420p, preview-format=yuv420sp, preview-fps-range-values=(5000,30000), preview-fps-range=5000,30000, preview-frame-rate-values=5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30, preview-frame-rate=30, preview-size-values=640x480,576x432,480x320,448x336,432x240,384x288,352x288,320x240,240x160,176x144, preview-size=640x480, record-size=640x480, redeye-reduction-values=enable,disable, redeye-reduction=disable, saturation-max=10, saturation=5, scene-detect-values=, scene-detect=off, scene-mode-values=auto,action,portrait,landscape,night,night-portrait,theatre,beach,snow,sunset,steadyphoto,fireworks,sports,party,candlelight,backlight,flowers,AR, scene-mode=auto, selectable-zone-af-values=, selectable-zone-af=auto, sharpness-max=30, sharpness=10, shutter-sound=0, skinToneEnhancement-values=, skinToneEnhancement=disable, strtextures=OFF, touch-af-aec-values=, touch-af-aec=touch-off, touch-index-aec=-1x-1, touch-index-af=-1x-1, touchAfAec-dx=100, touchAfAec-dy=100, vertical-view-angle=42, video-frame-format=yuv420sp, video-size-values=640x480,352x288,320x240,176x144, video-size=640x480, video-zoom-support=false, whitebalance-values=auto,incandescent,fluorescent,daylight,cloudy-daylight, whitebalance=auto, zoom-ratios=100,102,104,107,109,112,114,117,120,123,125,128,131,135,138,141,144,148,151,155,158,162,166,170,174,178,182,186,190,195,200,204,209,214,219,224,229,235,240,246,251,257,263,270,276,282,289,296,303,310,317,324,332,340,348,356,364,373,381,390,400, zoom-supported=true, zoom=0]
+I/QualcommCameraHardware( 1272): Parameter Rolloff is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter MCE is not supported for this sensor
+I/QualcommCameraHardware( 1272): Sharpness not supported for this sensor
+I/QualcommCameraHardware( 1272): Saturation not supported for this sensor
+I/QualcommCameraHardware( 1272): Contrast not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter AntiBanding is not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter Redeye Reduction is not supported for this sensor
+E/QualcommCameraHardware( 1272): Wavelet Denoise is not supported for this sensor
+I/QualcommCameraHardware( 1272): Auto Exposure not supported for this sensor
+I/QualcommCameraHardware( 1272): Parameter HFR is not supported for this sensor
+I/DEBUG   (  112):          #01  pc 0001db64  /system/lib/libbinder.so (_ZN7android14MemoryHeapPmem9mapMemoryEjj)
+I/DEBUG   (  112):          #02  pc 00016468  /system/lib/libcamera.so (_ZN7android22QualcommCameraHardware8PmemPoolC1EPKciiiiiiiS3_)
+I/DEBUG   (  112):          #03  pc 00016e8c  /system/lib/libcamera.so (_ZN7android22QualcommCameraHardware11initPreviewEv)
+I/DEBUG   (  112):          #04  pc 000180a6  /system/lib/libcamera.so (_ZN7android22QualcommCameraHardware20startPreviewInternalEv)
+I/DEBUG   (  112):          #05  pc 00018328  /system/lib/libcamera.so (_ZN7android22QualcommCameraHardware12startPreviewEv)
+I/DEBUG   (  112):          #06  pc 000028cc  /system/lib/hw/camera.e405.so (_Z21qcamera_start_previewP13camera_device)
+I/DEBUG   (  112):          #07  pc 00008aa0  /system/lib/libcameraservice.so (_ZN7android13CameraService6Client16startPreviewModeEv)
+I/DEBUG   (  112):          #08  pc 0000a25a  /system/lib/libcameraservice.so (_ZN7android13CameraService6Client15startCameraModeENS1_11camera_modeE)
+I/DEBUG   (  112):          #09  pc 0000a31e  /system/lib/libcameraservice.so (_ZN7android13CameraService6Client12startPreviewEv)
+I/DEBUG   (  112):          #10  pc 00016e0e  /system/lib/libcamera_client.so (_ZN7android8BnCamera10onTransactEjRKNS_6ParcelEPS1_j)
+I/DEBUG   (  112):          #11  pc 00017f44  /system/lib/libbinder.so (_ZN7android7BBinder8transactEjRKNS_6ParcelEPS1_j)
+I/DEBUG   (  112):          #12  pc 0001b2a6  /system/lib/libbinder.so (_ZN7android14IPCThreadState14executeCommandEi)
+I/DEBUG   (  112):          #13  pc 0001b482  /system/lib/libbinder.so (_ZN7android14IPCThreadState14joinThreadPoolEb)
+I/DEBUG   (  112):          #14  pc 0002077c  /system/lib/libbinder.so
+I/DEBUG   (  112):          #15  pc 00022a1e  /system/lib/libutils.so (_ZN7android6Thread11_threadLoopEPv)
+I/DEBUG   (  112):          #16  pc 00023064  /system/lib/libutils.so
+I/DEBUG   (  112):          #17  pc 00012e8c  /system/lib/libc.so (__thread_entry)
+I/DEBUG   (  112):          #18  pc 000129bc  /system/lib/libc.so (pthread_create)
+I/DEBUG   (  112):     413bebc4  4016c599  /system/lib/libutils.so
+I/DEBUG   (  112):     413bebcc  401a190b  /system/lib/libbinder.so
+I/DEBUG   (  112):     413bebe4  a791bf2c  /system/lib/libcamera.so
+I/DEBUG   (  112):     413bebec  a791bf2c  /system/lib/libcamera.so
+I/DEBUG   (  112):     413bebf8  a791bf2c  /system/lib/libcamera.so
+I/DEBUG   (  112):     413bec04  a791646b  /system/lib/libcamera.so
+I/QualcommCameraHardware( 1321): Camera sensor 0 info:
+I/QualcommCameraHardware( 1321): sensor_mount_angle: 0
+^C
+
